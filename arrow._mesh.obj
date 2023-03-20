@@ -1,7 +1,7 @@
 # Blender 3.4.1
 # www.blender.org
 mtllib arrow._meshobj.mtl
-o Cube.001
+o Cube
 v 15.000000 -5.000000 15.000000
 v 15.000000 5.000000 15.000000
 v 15.000000 -5.000000 5.000000
